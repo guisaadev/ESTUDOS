@@ -11,7 +11,6 @@ Neste curso utilizei 2 ferramentas para **exercitar Pseudocódigos em ambientes 
 | - | - |
 | **`VISUALG`** | O VisualG é um programa gratuito e de código aberto, usado principalmente para ensinar lógica de programação. Funciona como um pseudocódigo, que é uma forma de escrever algoritmos usando uma linguagem simples e parecida com o português. <br> **Vejam mais em:** https://dicasdeprogramacao.com.br/download-visualg/ |
 | **`Portugol`** | O Portugol WebStudio é um ambiente de programação online e gratuito que funciona diretamente no navegador, sem precisar instalar nada. Ele foi criado especificamente para quem está começando a aprender lógica de programação, usando uma linguagem chamada Portugol. <br> **Vejam mais em:** https://portugol.dev/ |
-| | |
 
 ## Conteúdo
 Neste curso foram abordados assuntos como:
