@@ -3,6 +3,19 @@ Este repositório é um espaço dedicado aos meus projetos de **estudo, exercíc
 
 Os exercícios são **adaptos por mim** em casos de desenvolvimento.
 
+## 📂 Estrutura
+Os projetos são **organizados por instituições de ensino** seguidos dos cursos, temas, sessões, aulas e dos exercícios propostos. Seguindo o exemplo de arquitetura abaixo:
+
+```
+# ESTUDOS/
+|   ├── 01-Curso-em-Video/
+|       ├── 01-Algoritmo/
+|           ├── 01-VisualG/
+|               ├── 01-Sequências-Básicas
+|                    └── 01-OLA-MUNDO.ALG
+|
+```
+
 ## Tecnologias
 Algumas das Tecnologias aprendidas são:
 
